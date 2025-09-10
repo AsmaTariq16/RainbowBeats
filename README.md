@@ -83,7 +83,3 @@ RainbowBeats/
 ## 💡 Author
 
 Developed by Asma Tariq
-
-
-👉 Codewitch, do you want me to also **add badges** (like GitHub stars, license, tech stack badges) and **deployment instructions** (e.g., hosting on GitHub Pages)? That will make the README look even more professional.
-```
