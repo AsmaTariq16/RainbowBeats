@@ -83,3 +83,4 @@ RainbowBeats/
 ## 💡 Author
 
 Developed by Asma Tariq
+# RainbowBeats
